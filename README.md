@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there, 👋 I'm <a href="https://www.linkedin.com/in/alfredo-martins-a928a217a/"><i>Alfredo Martins (CodeTyper)</h1>
+## Hey there, 👋 I'm `Alfredo Martins - CodeTyper` !
 
 
 
