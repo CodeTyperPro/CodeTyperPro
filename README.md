@@ -1,5 +1,5 @@
 
-## Hey there, 👋 I'm `Alfredo Martins - CodeTyper` !
+## Hey there, 👋 I'm Alfredo Martins - `CodeTyper` !
 
 
 
