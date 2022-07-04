@@ -12,10 +12,16 @@
 
 
 
+<!--
+**CodeTyperPro/CodeTyperPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
 <h1 align="center">Hey there 👋, I'm Alfredo Martins</h1>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codetyperpro&label=Profile%20views&color=0e75b6&style=flat" alt="codetyperpro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codetyperpro" alt="codetyperpro" /></a> </p>
@@ -43,18 +49,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codetyperpro&" alt="codetyperpro" /></p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**CodeTyperPro/CodeTyperPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
